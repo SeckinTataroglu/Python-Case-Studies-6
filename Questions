@@ -1,16 +1,16 @@
-## Task 1. String alphabet analysis [12 points]
+Task 1. String alphabet analysis [12 points]
 
 
 In the cell below, write a piece of code that will do the following work:
 
-* (1) Introduce an arbitrary string of English text (you may cut and paste any text from an article on the web, etc.) The string should be no less than 500 charachters long.
-* (2) Remove all digits from the string (e.g., '2'), leaving only alphabet characters (that is, the letters)
-* (3) Calculate the number of words in the string, and have your program print the result
-* (4) Calculate the number of times the letter 'a' appears in the string, and print the result
-* (5) Using the python 'for' loop, do the same for all of the 26 letters in the alphabet. Note that both upper and lower case letters should be counted. 
-* (6) Create a dictionary in which the frequency of each letter in the text is the value, and the letter is the key. 
-* (7) Using the dictionary, have your program print the text 'The most frequently appearing letter is X, and it appears in the text N times', where X and N are calculated in the step above. 
-* (8) Using the 'while loop' and the 'if' statement, print out any letters that are missing in the string.
+(1) Introduce an arbitrary string of English text (you may cut and paste any text from an article on the web, etc.) The string should be no less than 500 charachters long.
+(2) Remove all digits from the string (e.g., '2'), leaving only alphabet characters (that is, the letters)
+(3) Calculate the number of words in the string, and have your program print the result
+(4) Calculate the number of times the letter 'a' appears in the string, and print the result
+(5) Using the python 'for' loop, do the same for all of the 26 letters in the alphabet. Note that both upper and lower case letters should be counted. 
+(6) Create a dictionary in which the frequency of each letter in the text is the value, and the letter is the key. 
+(7) Using the dictionary, have your program print the text 'The most frequently appearing letter is X, and it appears in the text N times', where X and N are calculated in the step above. 
+(8) Using the 'while loop' and the 'if' statement, print out any letters that are missing in the string.
 
 
 Hints:
