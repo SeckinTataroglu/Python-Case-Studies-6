@@ -2,7 +2,7 @@
 
 
 
-## Task 1. String alphabet analysis [12 points]
+## Task 1. String alphabet analysis
 
 
 In the cell below, write a piece of code that will do the following work:
@@ -30,7 +30,7 @@ print alphabet
 
 
 
-## Task 2. Using input from the user -- 13 points possible
+## Task 2. Using input from the user
 
 Write a code that 
 * Directs the User to enter their birth date, and accepts it in the format DD/MM/YYYY, e.g., 08/12/2015.
